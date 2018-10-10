@@ -2,21 +2,98 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://kilolumen.me/2018/10/10/Install-Hexo/</loc>
+    <loc>http://kilolumen.me/2016/07/22/Mac-Keyboard-shortcut/</loc>
     
-    <lastmod>2018-10-10T09:55:17.717Z</lastmod>
+    <lastmod>2018-10-10T12:21:36.218Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://kilolumen.me/2016/11/01/British-Shorthair/</loc>
+    <loc>http://kilolumen.me/2016/03/27/lldb-and-chisel/</loc>
+    
+    <lastmod>2018-10-10T12:10:37.895Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kilolumen.me/2016/04/18/notes-1/</loc>
+    
+    <lastmod>2018-10-10T12:10:37.895Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kilolumen.me/2017/08/04/git-cli/</loc>
+    
+    <lastmod>2018-10-10T12:10:37.894Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kilolumen.me/2016/03/25/Programmer-and-Designer/</loc>
+    
+    <lastmod>2018-10-10T12:10:37.893Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kilolumen.me/2016/03/24/Sketch-Skill/</loc>
+    
+    <lastmod>2018-10-10T12:10:37.893Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kilolumen.me/2016/06/13/NSURLSessionDownloadTask-usage/</loc>
+    
+    <lastmod>2018-10-10T12:10:37.892Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kilolumen.me/2016/04/22/NSOperationQueue-use/</loc>
+    
+    <lastmod>2018-10-10T12:10:37.892Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kilolumen.me/2016/03/26/Emacs-Keyboard-shortcut/</loc>
+    
+    <lastmod>2018-10-10T12:10:37.891Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kilolumen.me/2016/03/24/Carthage-usage/</loc>
+    
+    <lastmod>2018-10-10T12:10:37.890Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kilolumen.me/2016/03/23/Clojure-note/</loc>
+    
+    <lastmod>2018-10-10T12:10:37.890Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kilolumen.me/2018/10/10/Install-Hexo/</loc>
+    
+    <lastmod>2018-10-10T09:58:51.321Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kilolumen.me/2018/06/11/hello-world/</loc>
     
     <lastmod>2018-06-11T02:50:38.912Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://kilolumen.me/2018/06/11/hello-world/</loc>
+    <loc>http://kilolumen.me/2016/11/01/British-Shorthair/</loc>
     
     <lastmod>2018-06-11T02:50:38.912Z</lastmod>
     
